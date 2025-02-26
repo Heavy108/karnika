@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+google_api_key.json
 # next.js
 /.next/
 /out/
